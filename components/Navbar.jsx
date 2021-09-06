@@ -19,11 +19,11 @@ function Navbar({ router }) {
 
         <ul className="nav-links">
           {navs.map((nav) => (
-            <li>
+            <li key={nav.text}>
               <Link href={nav.href}>
                 <a
                   className={`nav-item ${
-                    router.pathname == nav.href ? 'active' : ''
+                    router.pathname === nav.href ? 'active' : ''
                   }`}
                 >
                   {nav.text}
