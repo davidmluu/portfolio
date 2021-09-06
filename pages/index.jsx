@@ -1,6 +1,6 @@
+import Head from 'next/head';
 import Link from 'next/link';
 import Navbar from '../components/Navbar';
-import Head from 'next/head'
 
 function Home() {
   return (
@@ -14,10 +14,10 @@ function Home() {
       <section className="hero">
         <div className="container">
           <div className="text-wrapper">
-            <h1 className="title">Halo, saya Lutfhi Ramadhan</h1>
-            <p className="description">Saya seorang pekerja lepas pengembang web, fotograper, desainer antarmuka pengguna, dan penulis.</p>
+            <h1 className="title">Hi, I'm Sarah</h1>
+            <p className="description">I am learning web development and this is my portfolio. You can take a closer look at the projects I am working on. Feel free to contact me with constructive feedback, I appreciate it.</p>
 
-            <Link href="/contact"><a className="cta">Kontak Saya</a></Link>
+            <Link href="/contact"><a className="cta">Contact me!</a></Link>
           </div>
 
           <div className="image-wrapper">

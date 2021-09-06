@@ -1,6 +1,6 @@
+import Head from 'next/head';
 import Link from 'next/link';
 import Navbar from '../components/Navbar';
-import Head from 'next/head'
 
 function Portfolio() {
 	return (
@@ -16,7 +16,7 @@ function Portfolio() {
 			    <div className="text-wrapper w-full">
 			      <h1 className="title">Portfolio</h1>
 			      <p className="description">
-			      	Incididunt in cillum magna occaecat nisi qui in.
+			      	This is the portfolio I was talking about earlier.
 			      </p>
 
 			      <div className="portfolio-wrapper">
