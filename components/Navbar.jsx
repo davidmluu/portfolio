@@ -15,8 +15,8 @@ function Navbar({ router }) {
       <div className="container">
         <Link href="/">
           <a className="logo">
-            <div className="logo-font">Sarah</div>
-            <div className="logo-hand">Faustmann</div>
+            <div className="logo-font">David</div>
+            <div className="logo-hand">Luu</div>
           </a>
         </Link>
 

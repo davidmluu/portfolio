@@ -14,12 +14,13 @@ function Home() {
       <section className="hero">
         <div className="container">
           <div className="text-wrapper">
-            <h1 className="title">Full-stack Web Developer</h1>
+            <h1 className="title">Computer Science Student at Virginia Tech</h1>
             <p className="description">
-              Looking for challenges where I can put my problem-solving skills
-              and love for designing and building things to good use. Currently
-              working with React, Next.js, JavaScript/TypeScript, PostgreSQL,
-              Node.js, HTML and CSS.
+              I'm a passionate software engineer with a drive to create impactful 
+              solutions, possessing a keen interest in full-stack web 
+              development. I aim to secure an internship where I can contribute 
+              to cutting-edge projects and expand my knowledge in the field. Currently
+              working with React, Python, JavaScript, MongoDB, Node.js, HTML and CSS.
             </p>
             <Link href="/contact">
               <a className="cta">Contact me!</a>

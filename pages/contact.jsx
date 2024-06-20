@@ -21,42 +21,32 @@ function Contact() {
                 <li className="contact-details">
                   <a
                     className="contact-links"
-                    href="https://github.com/sarahfaust"
+                    href="https://github.com/davidmbluu"
                   >
                     <GitHub className="contact-icons" />
-                    <p className="contact-text">sarahfaust</p>
+                    <p className="contact-text">davidmluu</p>
                   </a>
                 </li>
                 <li className="contact-details">
                   <a
                     className="contact-links"
-                    href="https://github.com/sarahfaust"
+                    href="https://linkedin.com/in/david-luu-815565283"
                   >
-                    <Twitter className="contact-icons" />
-                    <p className="contact-text">sarahfaustmann</p>{' '}
+                    <Linkedin className="contact-icons" />
+                    <p className="contact-text">David Luu</p>
                   </a>
                 </li>
                 <li className="contact-details">
                   <a
                     className="contact-links"
-                    href="https://calendly.com/sarahfaustmann/15min"
+                    href="https://www.instagram.com/davidmluu/"
                   >
-                    <Calendar className="contact-icons" />
-                    <p className="contact-text">Calendly</p>
+                    <Instagram className="contact-icons" />
+                    <p className="contact-text">davidmluu</p>
                   </a>
                 </li>
               </ul>
             </p>
-            <div
-              class="calendly-inline-widget"
-              data-url="https://calendly.com/sarahfaustmann/15min"
-              style={{ minWidth: '320px', height: '640px' }}
-            />
-            <script
-              type="text/javascript"
-              src="https://assets.calendly.com/assets/external/widget.js"
-              async
-            />
           </div>
         </div>
       </section>
